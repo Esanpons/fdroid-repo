@@ -1,0 +1,6 @@
+<fdroid>
+  <repo name="Esanpons fdroid" url="https://esanpons.github.io/fdroid-repo/" />
+  <application id="com.miapp.ejemplo">
+    <package version="1.0" apkname="miapp-1.0.apk" />
+  </application>
+</fdroid>
