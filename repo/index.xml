@@ -2,7 +2,7 @@
   <repo
     name="Esanpons fdroid"
     url="https://esanpons.github.io/fdroid-repo/repo/" />
-  <application id="com.esanpons.bibleseeklogos">
+  <application id="com.bibleapp.app">
     <package
       version="1.0.0"
       apkname="BibleSeekLogos_v1.0.0.apk" />
