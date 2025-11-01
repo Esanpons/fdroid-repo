@@ -1,0 +1,26 @@
+# Placeholder para BibleSeekLogos_v1.0.0-release.apk
+# Este archivo es un placeholder - el APK real se genera durante la compilación
+
+# Para generar el APK real:
+# 1. Importar proyecto en Android Studio
+# 2. Ejecutar: ./gradlew assembleRelease  
+# 3. El APK se generará en: app/build/outputs/apk/release/
+
+# Información del APK:
+# - Versión: 1.0.0 (Build 1)
+# - Package ID: com.bibleapp.app
+# - Tamaño estimado: 25-30 MB
+# - Requiere: Android 5.0+ (API 21+)
+
+# Firma del APK:
+# - Debug: auto-firmado para desarrollo
+# - Release: requiere keystore para distribución
+
+# Funcionalidades incluidas:
+# ✓ Búsqueda avanzada estilo SeekLogos
+# ✓ Lectura bíblica estilo YouVersion  
+# ✓ Sistema de marcadores
+# ✓ Text-to-Speech
+# ✓ Versión BEC incluida
+# ✓ Modo nocturno
+# ✓ Configuración completa
