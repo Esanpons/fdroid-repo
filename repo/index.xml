@@ -1,0 +1,10 @@
+<fdroid>
+  <repo
+    name="Esanpons fdroid"
+    url="https://esanpons.github.io/fdroid-repo/repo/" />
+  <application id="com.esanpons.bibleseeklogos">
+    <package
+      version="1.0.0"
+      apkname="BibleSeekLogos_v1.0.0.apk" />
+  </application>
+</fdroid>
